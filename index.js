@@ -30,7 +30,7 @@ monicasRestourant.add("Sushi");
 monicasRestourant.add("Sushi");
 
 const firstUser = {
-    "name":"monica",
+    "name":"Monica",
     "gender":"Female",
     "age":17,
     "email":"monica@dingdong.com",
